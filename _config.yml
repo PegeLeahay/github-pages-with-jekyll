@@ -1,4 +1,4 @@
-theme: minima 
+theme: minima
 title: Pickles: Our new messiah? 
 author: Peg Leahay
 email: your-email@domain.com
@@ -10,7 +10,7 @@ description: > # this means to ignore newlines until "baseurl:"
   like just actual brined cucumbers. 
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+twitter_username: pegeleahay
+github_username:  PegeLeahay
 
 show_excerpts: true # set to false to remove excerpts on the homepage
